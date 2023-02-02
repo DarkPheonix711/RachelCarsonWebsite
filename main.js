@@ -1,0 +1,1 @@
+alert('Click okay if you are from mrs.cheney class');
